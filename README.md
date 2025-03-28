@@ -14,6 +14,4 @@ Automated testing for OrangeHRM Software using Selenium, Java, TestNG, Maven, Gi
 - **Allure Reports**
 
 ### Documents
-[OrangeHRM.xlsx](https://github.com/user-attachments/files/19503109/OrangeHRM.xlsx)
-
-
+[OrangeHRM.xlsx](https://github.com/user-attachments/files/19507588/OrangeHRM.xlsx)
